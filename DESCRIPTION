@@ -1,5 +1,5 @@
 Package: GLASM
-Title: What the Package Does (One Line, Title Case)
+Title: Graph Laplacian Augmented Screening Method for censored data
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
