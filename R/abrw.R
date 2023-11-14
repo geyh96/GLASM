@@ -1,6 +1,6 @@
 #' The function implementing the network structured screening method proposed in this manuscripts.
-#' @title abrw
-#' @description ABsorbed Random Walk Algorithm for network structured screening method.
+#'
+#' 
 #' @param list_amatrix list_amatrix is a list contains the matrix information you want. Every matrix is an p by p adjacency matrix here.
 #' @param utility utility is the marginal screening meature vector with length p.
 #' @param list_alpha is the tuning parameter in the proposed method. It shold have the same length as the number of matrices.

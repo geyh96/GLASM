@@ -24,8 +24,8 @@ NULL
 #' The package "GALSMcensor" provides the detailed code for the paper Feng, Ge and Wu(manuscripts):\cr
 #' @docType package
 #' @aliases GLASMcensor-package
-#' @author Xingdong Feng, Yeheng Ge and Mengyun Wu \cr
-#' Maintainers: Yeheng Ge<geyh96@163.sufe.edu.cn>;
+#' @author Yeheng Ge, Xingdong Feng, Tao Li, Hailong  Liu and Mengyun Wu \cr
+#' Maintainers: Yeheng Ge<yeheng.ge@polyu.edu.hk>;
 #' @references
 #' 1.  T. Zhao and H. Liu. The huge Package for High-dimensional Undirected Graph Estimation in R. \emph{Journal of Machine Learning Research}, 2012\cr
 #' 4.  Han Liu, Kathryn Roeder and Larry Wasserman. Stability Approach to Regularization Selection (StARS) for High Dimensional Graphical Models. \emph{Advances in Neural Information Processing Systems}, 2010.\cr
